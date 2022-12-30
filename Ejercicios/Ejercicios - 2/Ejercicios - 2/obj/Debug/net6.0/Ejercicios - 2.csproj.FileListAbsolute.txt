@@ -1,0 +1,15 @@
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\bin\Debug\net6.0\Ejercicios - 2.exe
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\bin\Debug\net6.0\Ejercicios - 2.deps.json
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\bin\Debug\net6.0\Ejercicios - 2.runtimeconfig.json
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\bin\Debug\net6.0\Ejercicios - 2.dll
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\bin\Debug\net6.0\Ejercicios - 2.pdb
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\obj\Debug\net6.0\Ejercicios - 2.csproj.AssemblyReference.cache
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\obj\Debug\net6.0\Ejercicios - 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\obj\Debug\net6.0\Ejercicios - 2.AssemblyInfoInputs.cache
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\obj\Debug\net6.0\Ejercicios - 2.AssemblyInfo.cs
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\obj\Debug\net6.0\Ejercicios - 2.csproj.CoreCompileInputs.cache
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\obj\Debug\net6.0\Ejercicios - 2.dll
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\obj\Debug\net6.0\refint\Ejercicios - 2.dll
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\obj\Debug\net6.0\Ejercicios - 2.pdb
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\obj\Debug\net6.0\Ejercicios - 2.genruntimeconfig.cache
+D:\MartinBD\Programacion\BootCamp - Devlights\BootCamp - C#.net & Angular\Ejercicios\Ejercicios - 2\Ejercicios - 2\obj\Debug\net6.0\ref\Ejercicios - 2.dll
